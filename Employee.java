@@ -19,4 +19,5 @@ lass Employee
 		salary = emp.AddWork();
 		
 		TestEmployee test = new TestEmployee(salary);  
+		System.out.println("Enter the Employee details");
 	}
