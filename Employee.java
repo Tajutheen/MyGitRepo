@@ -18,5 +18,6 @@ lass Employee
 		salary = emp.AddSal();
 		salary = emp.AddWork();
 		
-		
+		int salary=s;
+		{
 	}
