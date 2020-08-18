@@ -18,9 +18,14 @@ lass Employee
 		salary = emp.AddSal();
 		salary = emp.AddWork();
 		
+
 		TestEmployee test = new TestEmployee(salary);  
 		System.out.println("Enter the Employee details");
 		{
 			Scanner sc = new Scanner;
 			
+
+		int salary=s;
+		{
+
 	}
