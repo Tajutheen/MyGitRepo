@@ -20,4 +20,7 @@ lass Employee
 		
 		TestEmployee test = new TestEmployee(salary);  
 		System.out.println("Enter the Employee details");
+		{
+			Scanner sc = new Scanner;
+			
 	}
