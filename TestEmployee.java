@@ -14,5 +14,6 @@ class TestEmployee {
 		emp.getInfo(name, salary, hours);
 		salary = emp.AddSal();
 		salary = emp.AddWork();
+		System.out.println("Enter the salary");
 	}
 	}
